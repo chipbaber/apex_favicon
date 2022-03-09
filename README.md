@@ -1,5 +1,5 @@
 # Tutorial to Customize the Favicon for a APEX Application
-Below you will find instruction on how to customize your favicon for an Oracle APEX application.
+Below you will find instruction on how to customize your favicon for an Oracle APEX application. Please reference this learning video for more details [https://youtu.be/NUBga8Gsb9Y](https://youtu.be/NUBga8Gsb9Y)
 
 - These steps assume you have created a favicon set, typically this is done by a UI/UX artist. In our example you can reference images in the /fav folder for the example in this repo. In many cases you will have considerably more favicon sizes for various devices than in this example.
 
@@ -45,3 +45,9 @@ Below you will find instruction on how to customize your favicon for an Oracle A
 <link href="#APP_IMAGES#fav/android-chrome-512x512.png" sizes="512x512" type="image/png" rel="icon">
 <link href="#APP_IMAGES#fav/apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon">
 ```
+
+![](assets/README-937d214b.png)
+
+- Run your application and view the icon.
+
+![](assets/README-0c9372a6.png)
